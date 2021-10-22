@@ -1,0 +1,62 @@
+[
+	{
+		"name": "ajay",
+	    "cards": [
+	        {
+	        	"suit": "diamond",
+	            "card": 10,
+	            "value": 10
+	        },
+			{
+	        	"suit": "hearts",
+	            "card": 2,
+	            "value": 2
+	        },
+	        {
+	        	"suit": "club",
+	            "card": 5,
+	            "value": 5
+		    }
+		]
+	},
+	{
+		"name": "vijay",
+	    "cards": [
+	    	{
+	        	"suit": "speads",
+	            "card": 9,
+	            "value": 9
+	        },
+	        {
+	        	"suit": "speads",
+	            "card": 6,
+	            "value": 6
+			},
+	        {
+	        	"suit": "speads",
+	            "card": 3,
+	            "value": 3
+			}
+	    ]
+	},
+	{
+		"name": "sanjay",
+	    "cards": [
+	    	{
+	        	"suit": "club",
+	            "card": 9,
+	            "value": 9
+	        },
+	        {
+	        	"suit": "hearts",
+	            "card": 7,
+	            "value": 7
+	        },
+	        {
+	        	"suit": "diamond",
+	            "card": 7,
+	            "value": 7
+			}
+	    ]
+	}
+]
